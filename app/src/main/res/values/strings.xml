@@ -8,19 +8,29 @@
     <string name="btn_calc_circle_area">Area of Circle</string>
     <string name="btn_calc_volume">Volume</string>
     <!-- text fields -->
-    <string name="sum_first_num_hint">First number to add</string>
-    <string name="sum_second_num_hint">Second number to add</string>
-    <string name="sum_btn_calculate">Add numbers together!</string>
-    <string name="sum_placeholder">Sum will be displayed here.</string>
+    <string name="sum_first_num_hint">Your first number to add</string>
+    <string name="sum_second_num_hint">Your second number to add</string>
+    <string name="sum_btn_calculate">Click to add your numbers together!</string>
+    <string name="sum_placeholder">The sum of your two numbers will be displayed here.</string>
 
     <!-- strings used in PyThActivity -->
+    <string name="pyth_instruct">Calculate the length of one side of a triangle where the other two are known.</string>
+    <string name="length_side_a">Enter the length of the first side of your triangle.</string>
+    <string name="length_side_b">Enter the length of the second side of your triangle.</string>
+    <string name="btn_pyth"> Click to calculate the length of the remaining side</string>
+    <string name="placeholder">The length of the desired side will display here.</string>
 
     <!-- strings used in AreaActivity -->
     <string name="radius_txt"> Enter your circle\'s radius.</string>
-    <string name="area_btn_calculate"> Calculate Area!</string>
-    <string name="radius_placeholder"> Area will be displayed here.</string>
+    <string name="area_btn_calculate"> Click to calculate the area of your circle!</string>
+    <string name="radius_placeholder"> The area of your circle will be displayed here.</string>
 
     <!-- strings used in VolumeActivity -->
-
+    <string name="txt_volume_instruct"> Enter your box's dimensions.</string>
+    <string name="txt_box_height"> Enter your box\'s height.</string>
+    <string name="txt_box_width"> Enter your box\'s dimensions.</string>
+    <string name="txt_box_depth"> Enter your box\'s dimensions.</string>
+    <string name="btn_box_volume"> Click to calculate the volume of your box.</string>
+    <string name="volume_placeholder"> Your box's volume will display here.</string>
 
 </resources>
