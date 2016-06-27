@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/YeOldeGeometryApp.iml" filepath="$PROJECT_DIR$/YeOldeGeometryApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strings-r-us-geometry.iml" filepath="$PROJECT_DIR$/strings-r-us-geometry.iml" />
     </modules>
   </component>
 </project>
